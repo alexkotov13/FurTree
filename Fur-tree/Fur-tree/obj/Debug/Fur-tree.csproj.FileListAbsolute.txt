@@ -1,0 +1,7 @@
+E:\_First Course\Test\Fur-tree\Fur-tree\bin\Debug\Fur-tree.exe.config
+E:\_First Course\Test\Fur-tree\Fur-tree\bin\Debug\Fur-tree.exe
+E:\_First Course\Test\Fur-tree\Fur-tree\bin\Debug\Fur-tree.pdb
+E:\_First Course\Test\Fur-tree\Fur-tree\obj\Debug\Fur-tree.csprojResolveAssemblyReference.cache
+E:\_First Course\Test\Fur-tree\Fur-tree\obj\Debug\Fur-tree.csproj.CoreCompileInputs.cache
+E:\_First Course\Test\Fur-tree\Fur-tree\obj\Debug\Fur-tree.exe
+E:\_First Course\Test\Fur-tree\Fur-tree\obj\Debug\Fur-tree.pdb
