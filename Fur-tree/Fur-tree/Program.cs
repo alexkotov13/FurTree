@@ -12,7 +12,7 @@ namespace Fur_tree
         private static string space;
         private static int stepRight;
         private static int stepLeft;
-        private static void Main(string[] args)
+        static void Main(string[] args)
         {
             furTree = new StringBuilder("");
             Console.WriteLine("Build Fur-Tree !!!\n", Console.Title);
